@@ -1,0 +1,45 @@
+button
+{
+    width: 6.3em;
+    height: 2.5em;
+    margin: 0.3em; 
+    BACKGROUND-COLOR: TRANSPARENT;
+
+}
+
+.btn
+{
+    background-color: tomato;
+}
+
+section
+{
+    background-color:    WHITE;
+    width: 25vw;
+    height: 45vh;
+    margin: auto;
+    text-align: center;
+    padding-top: 1em;
+}
+.screen
+{
+    margin-left: -77px;
+    margin-bottom: 1.5em;
+    width: 30em;
+    height: 9em;
+    background-color: burlywood;
+    color: black;
+
+}
+
+ 
+ .left
+ {
+     margin-left: -0.2em;
+ }
+
+ p
+ {
+     color: white;
+ }
+ 
